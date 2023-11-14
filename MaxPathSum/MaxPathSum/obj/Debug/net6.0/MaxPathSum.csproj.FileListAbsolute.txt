@@ -1,0 +1,15 @@
+D:\Learning\Interviews\Practice Tests\MaxPathSum\MaxPathSum\bin\Debug\net6.0\MaxPathSum.exe
+D:\Learning\Interviews\Practice Tests\MaxPathSum\MaxPathSum\bin\Debug\net6.0\MaxPathSum.deps.json
+D:\Learning\Interviews\Practice Tests\MaxPathSum\MaxPathSum\bin\Debug\net6.0\MaxPathSum.runtimeconfig.json
+D:\Learning\Interviews\Practice Tests\MaxPathSum\MaxPathSum\bin\Debug\net6.0\MaxPathSum.dll
+D:\Learning\Interviews\Practice Tests\MaxPathSum\MaxPathSum\bin\Debug\net6.0\MaxPathSum.pdb
+D:\Learning\Interviews\Practice Tests\MaxPathSum\MaxPathSum\obj\Debug\net6.0\MaxPathSum.csproj.AssemblyReference.cache
+D:\Learning\Interviews\Practice Tests\MaxPathSum\MaxPathSum\obj\Debug\net6.0\MaxPathSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Interviews\Practice Tests\MaxPathSum\MaxPathSum\obj\Debug\net6.0\MaxPathSum.AssemblyInfoInputs.cache
+D:\Learning\Interviews\Practice Tests\MaxPathSum\MaxPathSum\obj\Debug\net6.0\MaxPathSum.AssemblyInfo.cs
+D:\Learning\Interviews\Practice Tests\MaxPathSum\MaxPathSum\obj\Debug\net6.0\MaxPathSum.csproj.CoreCompileInputs.cache
+D:\Learning\Interviews\Practice Tests\MaxPathSum\MaxPathSum\obj\Debug\net6.0\MaxPathSum.dll
+D:\Learning\Interviews\Practice Tests\MaxPathSum\MaxPathSum\obj\Debug\net6.0\refint\MaxPathSum.dll
+D:\Learning\Interviews\Practice Tests\MaxPathSum\MaxPathSum\obj\Debug\net6.0\MaxPathSum.pdb
+D:\Learning\Interviews\Practice Tests\MaxPathSum\MaxPathSum\obj\Debug\net6.0\MaxPathSum.genruntimeconfig.cache
+D:\Learning\Interviews\Practice Tests\MaxPathSum\MaxPathSum\obj\Debug\net6.0\ref\MaxPathSum.dll

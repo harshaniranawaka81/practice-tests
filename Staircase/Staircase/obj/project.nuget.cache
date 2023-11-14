@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "zmrKFyEXBt0iJ5kvUQWl3wuZ8lPN8PpY7AZwzBnpI7D5pB5lUB/Sm13h9iemFggXSI4gVen6BRnGglhGZU3wkg==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\Interviews\\Practice Tests\\Staircase\\Staircase\\Staircase.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget-server.sana-commerce.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.sana-commerce.com/AddonsDev'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

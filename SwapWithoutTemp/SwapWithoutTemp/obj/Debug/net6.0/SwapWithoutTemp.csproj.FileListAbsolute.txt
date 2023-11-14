@@ -1,0 +1,15 @@
+D:\Learning\Interviews\Practice Tests\SwapWithoutTemp\SwapWithoutTemp\bin\Debug\net6.0\SwapWithoutTemp.exe
+D:\Learning\Interviews\Practice Tests\SwapWithoutTemp\SwapWithoutTemp\bin\Debug\net6.0\SwapWithoutTemp.deps.json
+D:\Learning\Interviews\Practice Tests\SwapWithoutTemp\SwapWithoutTemp\bin\Debug\net6.0\SwapWithoutTemp.runtimeconfig.json
+D:\Learning\Interviews\Practice Tests\SwapWithoutTemp\SwapWithoutTemp\bin\Debug\net6.0\SwapWithoutTemp.dll
+D:\Learning\Interviews\Practice Tests\SwapWithoutTemp\SwapWithoutTemp\bin\Debug\net6.0\SwapWithoutTemp.pdb
+D:\Learning\Interviews\Practice Tests\SwapWithoutTemp\SwapWithoutTemp\obj\Debug\net6.0\SwapWithoutTemp.csproj.AssemblyReference.cache
+D:\Learning\Interviews\Practice Tests\SwapWithoutTemp\SwapWithoutTemp\obj\Debug\net6.0\SwapWithoutTemp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Interviews\Practice Tests\SwapWithoutTemp\SwapWithoutTemp\obj\Debug\net6.0\SwapWithoutTemp.AssemblyInfoInputs.cache
+D:\Learning\Interviews\Practice Tests\SwapWithoutTemp\SwapWithoutTemp\obj\Debug\net6.0\SwapWithoutTemp.AssemblyInfo.cs
+D:\Learning\Interviews\Practice Tests\SwapWithoutTemp\SwapWithoutTemp\obj\Debug\net6.0\SwapWithoutTemp.csproj.CoreCompileInputs.cache
+D:\Learning\Interviews\Practice Tests\SwapWithoutTemp\SwapWithoutTemp\obj\Debug\net6.0\SwapWithoutTemp.dll
+D:\Learning\Interviews\Practice Tests\SwapWithoutTemp\SwapWithoutTemp\obj\Debug\net6.0\refint\SwapWithoutTemp.dll
+D:\Learning\Interviews\Practice Tests\SwapWithoutTemp\SwapWithoutTemp\obj\Debug\net6.0\SwapWithoutTemp.pdb
+D:\Learning\Interviews\Practice Tests\SwapWithoutTemp\SwapWithoutTemp\obj\Debug\net6.0\SwapWithoutTemp.genruntimeconfig.cache
+D:\Learning\Interviews\Practice Tests\SwapWithoutTemp\SwapWithoutTemp\obj\Debug\net6.0\ref\SwapWithoutTemp.dll

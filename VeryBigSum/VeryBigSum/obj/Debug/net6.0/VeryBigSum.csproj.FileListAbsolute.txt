@@ -1,0 +1,15 @@
+D:\Learning\Interviews\Practice Tests\VeryBigSum\VeryBigSum\bin\Debug\net6.0\VeryBigSum.exe
+D:\Learning\Interviews\Practice Tests\VeryBigSum\VeryBigSum\bin\Debug\net6.0\VeryBigSum.deps.json
+D:\Learning\Interviews\Practice Tests\VeryBigSum\VeryBigSum\bin\Debug\net6.0\VeryBigSum.runtimeconfig.json
+D:\Learning\Interviews\Practice Tests\VeryBigSum\VeryBigSum\bin\Debug\net6.0\VeryBigSum.dll
+D:\Learning\Interviews\Practice Tests\VeryBigSum\VeryBigSum\bin\Debug\net6.0\VeryBigSum.pdb
+D:\Learning\Interviews\Practice Tests\VeryBigSum\VeryBigSum\obj\Debug\net6.0\VeryBigSum.csproj.AssemblyReference.cache
+D:\Learning\Interviews\Practice Tests\VeryBigSum\VeryBigSum\obj\Debug\net6.0\VeryBigSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Interviews\Practice Tests\VeryBigSum\VeryBigSum\obj\Debug\net6.0\VeryBigSum.AssemblyInfoInputs.cache
+D:\Learning\Interviews\Practice Tests\VeryBigSum\VeryBigSum\obj\Debug\net6.0\VeryBigSum.AssemblyInfo.cs
+D:\Learning\Interviews\Practice Tests\VeryBigSum\VeryBigSum\obj\Debug\net6.0\VeryBigSum.csproj.CoreCompileInputs.cache
+D:\Learning\Interviews\Practice Tests\VeryBigSum\VeryBigSum\obj\Debug\net6.0\VeryBigSum.dll
+D:\Learning\Interviews\Practice Tests\VeryBigSum\VeryBigSum\obj\Debug\net6.0\refint\VeryBigSum.dll
+D:\Learning\Interviews\Practice Tests\VeryBigSum\VeryBigSum\obj\Debug\net6.0\VeryBigSum.pdb
+D:\Learning\Interviews\Practice Tests\VeryBigSum\VeryBigSum\obj\Debug\net6.0\VeryBigSum.genruntimeconfig.cache
+D:\Learning\Interviews\Practice Tests\VeryBigSum\VeryBigSum\obj\Debug\net6.0\ref\VeryBigSum.dll

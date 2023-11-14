@@ -1,0 +1,16 @@
+D:\Learning\Interviews\Practice Tests\Polyndrome\Polyndrome\bin\Debug\net5.0\Polyndrome.exe
+D:\Learning\Interviews\Practice Tests\Polyndrome\Polyndrome\bin\Debug\net5.0\Polyndrome.deps.json
+D:\Learning\Interviews\Practice Tests\Polyndrome\Polyndrome\bin\Debug\net5.0\Polyndrome.runtimeconfig.json
+D:\Learning\Interviews\Practice Tests\Polyndrome\Polyndrome\bin\Debug\net5.0\Polyndrome.runtimeconfig.dev.json
+D:\Learning\Interviews\Practice Tests\Polyndrome\Polyndrome\bin\Debug\net5.0\Polyndrome.dll
+D:\Learning\Interviews\Practice Tests\Polyndrome\Polyndrome\bin\Debug\net5.0\Polyndrome.pdb
+D:\Learning\Interviews\Practice Tests\Polyndrome\Polyndrome\obj\Debug\net5.0\Polyndrome.csproj.AssemblyReference.cache
+D:\Learning\Interviews\Practice Tests\Polyndrome\Polyndrome\obj\Debug\net5.0\Polyndrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Interviews\Practice Tests\Polyndrome\Polyndrome\obj\Debug\net5.0\Polyndrome.AssemblyInfoInputs.cache
+D:\Learning\Interviews\Practice Tests\Polyndrome\Polyndrome\obj\Debug\net5.0\Polyndrome.AssemblyInfo.cs
+D:\Learning\Interviews\Practice Tests\Polyndrome\Polyndrome\obj\Debug\net5.0\Polyndrome.csproj.CoreCompileInputs.cache
+D:\Learning\Interviews\Practice Tests\Polyndrome\Polyndrome\obj\Debug\net5.0\Polyndrome.dll
+D:\Learning\Interviews\Practice Tests\Polyndrome\Polyndrome\obj\Debug\net5.0\refint\Polyndrome.dll
+D:\Learning\Interviews\Practice Tests\Polyndrome\Polyndrome\obj\Debug\net5.0\Polyndrome.pdb
+D:\Learning\Interviews\Practice Tests\Polyndrome\Polyndrome\obj\Debug\net5.0\Polyndrome.genruntimeconfig.cache
+D:\Learning\Interviews\Practice Tests\Polyndrome\Polyndrome\obj\Debug\net5.0\ref\Polyndrome.dll

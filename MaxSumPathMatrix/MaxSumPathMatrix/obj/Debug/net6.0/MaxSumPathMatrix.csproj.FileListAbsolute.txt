@@ -1,0 +1,15 @@
+D:\Learning\Interviews\Practice Tests\MaxSumPathMatrix\MaxSumPathMatrix\bin\Debug\net6.0\MaxSumPathMatrix.exe
+D:\Learning\Interviews\Practice Tests\MaxSumPathMatrix\MaxSumPathMatrix\bin\Debug\net6.0\MaxSumPathMatrix.deps.json
+D:\Learning\Interviews\Practice Tests\MaxSumPathMatrix\MaxSumPathMatrix\bin\Debug\net6.0\MaxSumPathMatrix.runtimeconfig.json
+D:\Learning\Interviews\Practice Tests\MaxSumPathMatrix\MaxSumPathMatrix\bin\Debug\net6.0\MaxSumPathMatrix.dll
+D:\Learning\Interviews\Practice Tests\MaxSumPathMatrix\MaxSumPathMatrix\bin\Debug\net6.0\MaxSumPathMatrix.pdb
+D:\Learning\Interviews\Practice Tests\MaxSumPathMatrix\MaxSumPathMatrix\obj\Debug\net6.0\MaxSumPathMatrix.csproj.AssemblyReference.cache
+D:\Learning\Interviews\Practice Tests\MaxSumPathMatrix\MaxSumPathMatrix\obj\Debug\net6.0\MaxSumPathMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Interviews\Practice Tests\MaxSumPathMatrix\MaxSumPathMatrix\obj\Debug\net6.0\MaxSumPathMatrix.AssemblyInfoInputs.cache
+D:\Learning\Interviews\Practice Tests\MaxSumPathMatrix\MaxSumPathMatrix\obj\Debug\net6.0\MaxSumPathMatrix.AssemblyInfo.cs
+D:\Learning\Interviews\Practice Tests\MaxSumPathMatrix\MaxSumPathMatrix\obj\Debug\net6.0\MaxSumPathMatrix.csproj.CoreCompileInputs.cache
+D:\Learning\Interviews\Practice Tests\MaxSumPathMatrix\MaxSumPathMatrix\obj\Debug\net6.0\MaxSumPathMatrix.dll
+D:\Learning\Interviews\Practice Tests\MaxSumPathMatrix\MaxSumPathMatrix\obj\Debug\net6.0\refint\MaxSumPathMatrix.dll
+D:\Learning\Interviews\Practice Tests\MaxSumPathMatrix\MaxSumPathMatrix\obj\Debug\net6.0\MaxSumPathMatrix.pdb
+D:\Learning\Interviews\Practice Tests\MaxSumPathMatrix\MaxSumPathMatrix\obj\Debug\net6.0\MaxSumPathMatrix.genruntimeconfig.cache
+D:\Learning\Interviews\Practice Tests\MaxSumPathMatrix\MaxSumPathMatrix\obj\Debug\net6.0\ref\MaxSumPathMatrix.dll

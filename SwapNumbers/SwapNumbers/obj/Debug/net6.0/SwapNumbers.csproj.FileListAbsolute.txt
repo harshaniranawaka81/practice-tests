@@ -1,0 +1,15 @@
+D:\Learning\Interviews\Practice Tests\SwapNumbers\SwapNumbers\bin\Debug\net6.0\SwapNumbers.exe
+D:\Learning\Interviews\Practice Tests\SwapNumbers\SwapNumbers\bin\Debug\net6.0\SwapNumbers.deps.json
+D:\Learning\Interviews\Practice Tests\SwapNumbers\SwapNumbers\bin\Debug\net6.0\SwapNumbers.runtimeconfig.json
+D:\Learning\Interviews\Practice Tests\SwapNumbers\SwapNumbers\bin\Debug\net6.0\SwapNumbers.dll
+D:\Learning\Interviews\Practice Tests\SwapNumbers\SwapNumbers\bin\Debug\net6.0\SwapNumbers.pdb
+D:\Learning\Interviews\Practice Tests\SwapNumbers\SwapNumbers\obj\Debug\net6.0\SwapNumbers.csproj.AssemblyReference.cache
+D:\Learning\Interviews\Practice Tests\SwapNumbers\SwapNumbers\obj\Debug\net6.0\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Interviews\Practice Tests\SwapNumbers\SwapNumbers\obj\Debug\net6.0\SwapNumbers.AssemblyInfoInputs.cache
+D:\Learning\Interviews\Practice Tests\SwapNumbers\SwapNumbers\obj\Debug\net6.0\SwapNumbers.AssemblyInfo.cs
+D:\Learning\Interviews\Practice Tests\SwapNumbers\SwapNumbers\obj\Debug\net6.0\SwapNumbers.csproj.CoreCompileInputs.cache
+D:\Learning\Interviews\Practice Tests\SwapNumbers\SwapNumbers\obj\Debug\net6.0\SwapNumbers.dll
+D:\Learning\Interviews\Practice Tests\SwapNumbers\SwapNumbers\obj\Debug\net6.0\refint\SwapNumbers.dll
+D:\Learning\Interviews\Practice Tests\SwapNumbers\SwapNumbers\obj\Debug\net6.0\SwapNumbers.pdb
+D:\Learning\Interviews\Practice Tests\SwapNumbers\SwapNumbers\obj\Debug\net6.0\SwapNumbers.genruntimeconfig.cache
+D:\Learning\Interviews\Practice Tests\SwapNumbers\SwapNumbers\obj\Debug\net6.0\ref\SwapNumbers.dll

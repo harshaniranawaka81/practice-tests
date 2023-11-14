@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubsequence", "LongestSubsequence\LongestSubsequence.csproj", "{AC5AE648-20C5-4C10-A7C0-9FEAD69CDE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC5AE648-20C5-4C10-A7C0-9FEAD69CDE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5AE648-20C5-4C10-A7C0-9FEAD69CDE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5AE648-20C5-4C10-A7C0-9FEAD69CDE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5AE648-20C5-4C10-A7C0-9FEAD69CDE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91196B9B-04BA-4DF7-9313-3E7C15B9A01F}
+	EndGlobalSection
+EndGlobal

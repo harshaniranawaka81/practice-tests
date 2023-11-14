@@ -1,0 +1,15 @@
+D:\Learning\Interviews\Practice Tests\SplitUniqueStrings\SplitUniqueStrings\bin\Debug\net6.0\SplitUniqueStrings.exe
+D:\Learning\Interviews\Practice Tests\SplitUniqueStrings\SplitUniqueStrings\bin\Debug\net6.0\SplitUniqueStrings.deps.json
+D:\Learning\Interviews\Practice Tests\SplitUniqueStrings\SplitUniqueStrings\bin\Debug\net6.0\SplitUniqueStrings.runtimeconfig.json
+D:\Learning\Interviews\Practice Tests\SplitUniqueStrings\SplitUniqueStrings\bin\Debug\net6.0\SplitUniqueStrings.dll
+D:\Learning\Interviews\Practice Tests\SplitUniqueStrings\SplitUniqueStrings\bin\Debug\net6.0\SplitUniqueStrings.pdb
+D:\Learning\Interviews\Practice Tests\SplitUniqueStrings\SplitUniqueStrings\obj\Debug\net6.0\SplitUniqueStrings.csproj.AssemblyReference.cache
+D:\Learning\Interviews\Practice Tests\SplitUniqueStrings\SplitUniqueStrings\obj\Debug\net6.0\SplitUniqueStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Interviews\Practice Tests\SplitUniqueStrings\SplitUniqueStrings\obj\Debug\net6.0\SplitUniqueStrings.AssemblyInfoInputs.cache
+D:\Learning\Interviews\Practice Tests\SplitUniqueStrings\SplitUniqueStrings\obj\Debug\net6.0\SplitUniqueStrings.AssemblyInfo.cs
+D:\Learning\Interviews\Practice Tests\SplitUniqueStrings\SplitUniqueStrings\obj\Debug\net6.0\SplitUniqueStrings.csproj.CoreCompileInputs.cache
+D:\Learning\Interviews\Practice Tests\SplitUniqueStrings\SplitUniqueStrings\obj\Debug\net6.0\SplitUniqueStrings.dll
+D:\Learning\Interviews\Practice Tests\SplitUniqueStrings\SplitUniqueStrings\obj\Debug\net6.0\refint\SplitUniqueStrings.dll
+D:\Learning\Interviews\Practice Tests\SplitUniqueStrings\SplitUniqueStrings\obj\Debug\net6.0\SplitUniqueStrings.pdb
+D:\Learning\Interviews\Practice Tests\SplitUniqueStrings\SplitUniqueStrings\obj\Debug\net6.0\SplitUniqueStrings.genruntimeconfig.cache
+D:\Learning\Interviews\Practice Tests\SplitUniqueStrings\SplitUniqueStrings\obj\Debug\net6.0\ref\SplitUniqueStrings.dll

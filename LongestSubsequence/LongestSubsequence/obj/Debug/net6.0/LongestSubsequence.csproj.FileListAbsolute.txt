@@ -1,0 +1,15 @@
+D:\Learning\Interviews\Practice Tests\LongestSubsequence\LongestSubsequence\obj\Debug\net6.0\LongestSubsequence.csproj.AssemblyReference.cache
+D:\Learning\Interviews\Practice Tests\LongestSubsequence\LongestSubsequence\obj\Debug\net6.0\LongestSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Interviews\Practice Tests\LongestSubsequence\LongestSubsequence\obj\Debug\net6.0\LongestSubsequence.AssemblyInfoInputs.cache
+D:\Learning\Interviews\Practice Tests\LongestSubsequence\LongestSubsequence\obj\Debug\net6.0\LongestSubsequence.AssemblyInfo.cs
+D:\Learning\Interviews\Practice Tests\LongestSubsequence\LongestSubsequence\obj\Debug\net6.0\LongestSubsequence.csproj.CoreCompileInputs.cache
+D:\Learning\Interviews\Practice Tests\LongestSubsequence\LongestSubsequence\bin\Debug\net6.0\LongestSubsequence.exe
+D:\Learning\Interviews\Practice Tests\LongestSubsequence\LongestSubsequence\bin\Debug\net6.0\LongestSubsequence.deps.json
+D:\Learning\Interviews\Practice Tests\LongestSubsequence\LongestSubsequence\bin\Debug\net6.0\LongestSubsequence.runtimeconfig.json
+D:\Learning\Interviews\Practice Tests\LongestSubsequence\LongestSubsequence\bin\Debug\net6.0\LongestSubsequence.dll
+D:\Learning\Interviews\Practice Tests\LongestSubsequence\LongestSubsequence\bin\Debug\net6.0\LongestSubsequence.pdb
+D:\Learning\Interviews\Practice Tests\LongestSubsequence\LongestSubsequence\obj\Debug\net6.0\LongestSubsequence.dll
+D:\Learning\Interviews\Practice Tests\LongestSubsequence\LongestSubsequence\obj\Debug\net6.0\refint\LongestSubsequence.dll
+D:\Learning\Interviews\Practice Tests\LongestSubsequence\LongestSubsequence\obj\Debug\net6.0\LongestSubsequence.pdb
+D:\Learning\Interviews\Practice Tests\LongestSubsequence\LongestSubsequence\obj\Debug\net6.0\LongestSubsequence.genruntimeconfig.cache
+D:\Learning\Interviews\Practice Tests\LongestSubsequence\LongestSubsequence\obj\Debug\net6.0\ref\LongestSubsequence.dll

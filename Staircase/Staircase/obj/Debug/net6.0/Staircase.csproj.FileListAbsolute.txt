@@ -1,0 +1,15 @@
+D:\Learning\Interviews\Practice Tests\Staircase\Staircase\bin\Debug\net6.0\Staircase.exe
+D:\Learning\Interviews\Practice Tests\Staircase\Staircase\bin\Debug\net6.0\Staircase.deps.json
+D:\Learning\Interviews\Practice Tests\Staircase\Staircase\bin\Debug\net6.0\Staircase.runtimeconfig.json
+D:\Learning\Interviews\Practice Tests\Staircase\Staircase\bin\Debug\net6.0\Staircase.dll
+D:\Learning\Interviews\Practice Tests\Staircase\Staircase\bin\Debug\net6.0\Staircase.pdb
+D:\Learning\Interviews\Practice Tests\Staircase\Staircase\obj\Debug\net6.0\Staircase.csproj.AssemblyReference.cache
+D:\Learning\Interviews\Practice Tests\Staircase\Staircase\obj\Debug\net6.0\Staircase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Interviews\Practice Tests\Staircase\Staircase\obj\Debug\net6.0\Staircase.AssemblyInfoInputs.cache
+D:\Learning\Interviews\Practice Tests\Staircase\Staircase\obj\Debug\net6.0\Staircase.AssemblyInfo.cs
+D:\Learning\Interviews\Practice Tests\Staircase\Staircase\obj\Debug\net6.0\Staircase.csproj.CoreCompileInputs.cache
+D:\Learning\Interviews\Practice Tests\Staircase\Staircase\obj\Debug\net6.0\Staircase.dll
+D:\Learning\Interviews\Practice Tests\Staircase\Staircase\obj\Debug\net6.0\refint\Staircase.dll
+D:\Learning\Interviews\Practice Tests\Staircase\Staircase\obj\Debug\net6.0\Staircase.pdb
+D:\Learning\Interviews\Practice Tests\Staircase\Staircase\obj\Debug\net6.0\Staircase.genruntimeconfig.cache
+D:\Learning\Interviews\Practice Tests\Staircase\Staircase\obj\Debug\net6.0\ref\Staircase.dll

@@ -1,0 +1,16 @@
+D:\Learning\Interviews\Practice Tests\MajorityElement\MajorityElement\obj\Debug\net5.0\MajorityElement.csproj.AssemblyReference.cache
+D:\Learning\Interviews\Practice Tests\MajorityElement\MajorityElement\obj\Debug\net5.0\MajorityElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Interviews\Practice Tests\MajorityElement\MajorityElement\obj\Debug\net5.0\MajorityElement.AssemblyInfoInputs.cache
+D:\Learning\Interviews\Practice Tests\MajorityElement\MajorityElement\obj\Debug\net5.0\MajorityElement.AssemblyInfo.cs
+D:\Learning\Interviews\Practice Tests\MajorityElement\MajorityElement\obj\Debug\net5.0\MajorityElement.csproj.CoreCompileInputs.cache
+D:\Learning\Interviews\Practice Tests\MajorityElement\MajorityElement\bin\Debug\net5.0\MajorityElement.exe
+D:\Learning\Interviews\Practice Tests\MajorityElement\MajorityElement\bin\Debug\net5.0\MajorityElement.deps.json
+D:\Learning\Interviews\Practice Tests\MajorityElement\MajorityElement\bin\Debug\net5.0\MajorityElement.runtimeconfig.json
+D:\Learning\Interviews\Practice Tests\MajorityElement\MajorityElement\bin\Debug\net5.0\MajorityElement.runtimeconfig.dev.json
+D:\Learning\Interviews\Practice Tests\MajorityElement\MajorityElement\bin\Debug\net5.0\MajorityElement.dll
+D:\Learning\Interviews\Practice Tests\MajorityElement\MajorityElement\bin\Debug\net5.0\MajorityElement.pdb
+D:\Learning\Interviews\Practice Tests\MajorityElement\MajorityElement\obj\Debug\net5.0\MajorityElement.dll
+D:\Learning\Interviews\Practice Tests\MajorityElement\MajorityElement\obj\Debug\net5.0\refint\MajorityElement.dll
+D:\Learning\Interviews\Practice Tests\MajorityElement\MajorityElement\obj\Debug\net5.0\MajorityElement.pdb
+D:\Learning\Interviews\Practice Tests\MajorityElement\MajorityElement\obj\Debug\net5.0\MajorityElement.genruntimeconfig.cache
+D:\Learning\Interviews\Practice Tests\MajorityElement\MajorityElement\obj\Debug\net5.0\ref\MajorityElement.dll

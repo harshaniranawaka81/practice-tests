@@ -1,0 +1,15 @@
+D:\Learning\Interviews\Practice Tests\DistributeCandy\DistributeCandy\bin\Debug\net6.0\DistributeCandy.exe
+D:\Learning\Interviews\Practice Tests\DistributeCandy\DistributeCandy\bin\Debug\net6.0\DistributeCandy.deps.json
+D:\Learning\Interviews\Practice Tests\DistributeCandy\DistributeCandy\bin\Debug\net6.0\DistributeCandy.runtimeconfig.json
+D:\Learning\Interviews\Practice Tests\DistributeCandy\DistributeCandy\bin\Debug\net6.0\DistributeCandy.dll
+D:\Learning\Interviews\Practice Tests\DistributeCandy\DistributeCandy\bin\Debug\net6.0\DistributeCandy.pdb
+D:\Learning\Interviews\Practice Tests\DistributeCandy\DistributeCandy\obj\Debug\net6.0\DistributeCandy.csproj.AssemblyReference.cache
+D:\Learning\Interviews\Practice Tests\DistributeCandy\DistributeCandy\obj\Debug\net6.0\DistributeCandy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Interviews\Practice Tests\DistributeCandy\DistributeCandy\obj\Debug\net6.0\DistributeCandy.AssemblyInfoInputs.cache
+D:\Learning\Interviews\Practice Tests\DistributeCandy\DistributeCandy\obj\Debug\net6.0\DistributeCandy.AssemblyInfo.cs
+D:\Learning\Interviews\Practice Tests\DistributeCandy\DistributeCandy\obj\Debug\net6.0\DistributeCandy.csproj.CoreCompileInputs.cache
+D:\Learning\Interviews\Practice Tests\DistributeCandy\DistributeCandy\obj\Debug\net6.0\DistributeCandy.dll
+D:\Learning\Interviews\Practice Tests\DistributeCandy\DistributeCandy\obj\Debug\net6.0\refint\DistributeCandy.dll
+D:\Learning\Interviews\Practice Tests\DistributeCandy\DistributeCandy\obj\Debug\net6.0\DistributeCandy.pdb
+D:\Learning\Interviews\Practice Tests\DistributeCandy\DistributeCandy\obj\Debug\net6.0\DistributeCandy.genruntimeconfig.cache
+D:\Learning\Interviews\Practice Tests\DistributeCandy\DistributeCandy\obj\Debug\net6.0\ref\DistributeCandy.dll

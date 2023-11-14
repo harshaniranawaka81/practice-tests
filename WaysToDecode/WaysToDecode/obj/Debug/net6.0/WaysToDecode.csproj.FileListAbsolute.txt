@@ -1,0 +1,15 @@
+D:\Learning\Interviews\Practice Tests\WaysToDecode\WaysToDecode\bin\Debug\net6.0\WaysToDecode.exe
+D:\Learning\Interviews\Practice Tests\WaysToDecode\WaysToDecode\bin\Debug\net6.0\WaysToDecode.deps.json
+D:\Learning\Interviews\Practice Tests\WaysToDecode\WaysToDecode\bin\Debug\net6.0\WaysToDecode.runtimeconfig.json
+D:\Learning\Interviews\Practice Tests\WaysToDecode\WaysToDecode\bin\Debug\net6.0\WaysToDecode.dll
+D:\Learning\Interviews\Practice Tests\WaysToDecode\WaysToDecode\bin\Debug\net6.0\WaysToDecode.pdb
+D:\Learning\Interviews\Practice Tests\WaysToDecode\WaysToDecode\obj\Debug\net6.0\WaysToDecode.csproj.AssemblyReference.cache
+D:\Learning\Interviews\Practice Tests\WaysToDecode\WaysToDecode\obj\Debug\net6.0\WaysToDecode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Interviews\Practice Tests\WaysToDecode\WaysToDecode\obj\Debug\net6.0\WaysToDecode.AssemblyInfoInputs.cache
+D:\Learning\Interviews\Practice Tests\WaysToDecode\WaysToDecode\obj\Debug\net6.0\WaysToDecode.AssemblyInfo.cs
+D:\Learning\Interviews\Practice Tests\WaysToDecode\WaysToDecode\obj\Debug\net6.0\WaysToDecode.csproj.CoreCompileInputs.cache
+D:\Learning\Interviews\Practice Tests\WaysToDecode\WaysToDecode\obj\Debug\net6.0\WaysToDecode.dll
+D:\Learning\Interviews\Practice Tests\WaysToDecode\WaysToDecode\obj\Debug\net6.0\refint\WaysToDecode.dll
+D:\Learning\Interviews\Practice Tests\WaysToDecode\WaysToDecode\obj\Debug\net6.0\WaysToDecode.pdb
+D:\Learning\Interviews\Practice Tests\WaysToDecode\WaysToDecode\obj\Debug\net6.0\WaysToDecode.genruntimeconfig.cache
+D:\Learning\Interviews\Practice Tests\WaysToDecode\WaysToDecode\obj\Debug\net6.0\ref\WaysToDecode.dll

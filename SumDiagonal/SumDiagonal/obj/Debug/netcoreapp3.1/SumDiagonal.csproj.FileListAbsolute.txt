@@ -1,0 +1,13 @@
+D:\Learning\Interviews\SumDiagonal\SumDiagonal\bin\Debug\netcoreapp3.1\SumDiagonal.exe
+D:\Learning\Interviews\SumDiagonal\SumDiagonal\bin\Debug\netcoreapp3.1\SumDiagonal.deps.json
+D:\Learning\Interviews\SumDiagonal\SumDiagonal\bin\Debug\netcoreapp3.1\SumDiagonal.runtimeconfig.json
+D:\Learning\Interviews\SumDiagonal\SumDiagonal\bin\Debug\netcoreapp3.1\SumDiagonal.runtimeconfig.dev.json
+D:\Learning\Interviews\SumDiagonal\SumDiagonal\bin\Debug\netcoreapp3.1\SumDiagonal.dll
+D:\Learning\Interviews\SumDiagonal\SumDiagonal\bin\Debug\netcoreapp3.1\SumDiagonal.pdb
+D:\Learning\Interviews\SumDiagonal\SumDiagonal\obj\Debug\netcoreapp3.1\SumDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Interviews\SumDiagonal\SumDiagonal\obj\Debug\netcoreapp3.1\SumDiagonal.AssemblyInfoInputs.cache
+D:\Learning\Interviews\SumDiagonal\SumDiagonal\obj\Debug\netcoreapp3.1\SumDiagonal.AssemblyInfo.cs
+D:\Learning\Interviews\SumDiagonal\SumDiagonal\obj\Debug\netcoreapp3.1\SumDiagonal.csproj.CoreCompileInputs.cache
+D:\Learning\Interviews\SumDiagonal\SumDiagonal\obj\Debug\netcoreapp3.1\SumDiagonal.dll
+D:\Learning\Interviews\SumDiagonal\SumDiagonal\obj\Debug\netcoreapp3.1\SumDiagonal.pdb
+D:\Learning\Interviews\SumDiagonal\SumDiagonal\obj\Debug\netcoreapp3.1\SumDiagonal.genruntimeconfig.cache

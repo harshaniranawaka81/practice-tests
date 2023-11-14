@@ -1,0 +1,15 @@
+D:\Learning\Interviews\Practice Tests\SmallestInteger\SmallestInteger\bin\Debug\net6.0\SmallestInteger.exe
+D:\Learning\Interviews\Practice Tests\SmallestInteger\SmallestInteger\bin\Debug\net6.0\SmallestInteger.deps.json
+D:\Learning\Interviews\Practice Tests\SmallestInteger\SmallestInteger\bin\Debug\net6.0\SmallestInteger.runtimeconfig.json
+D:\Learning\Interviews\Practice Tests\SmallestInteger\SmallestInteger\bin\Debug\net6.0\SmallestInteger.dll
+D:\Learning\Interviews\Practice Tests\SmallestInteger\SmallestInteger\bin\Debug\net6.0\SmallestInteger.pdb
+D:\Learning\Interviews\Practice Tests\SmallestInteger\SmallestInteger\obj\Debug\net6.0\SmallestInteger.csproj.AssemblyReference.cache
+D:\Learning\Interviews\Practice Tests\SmallestInteger\SmallestInteger\obj\Debug\net6.0\SmallestInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Interviews\Practice Tests\SmallestInteger\SmallestInteger\obj\Debug\net6.0\SmallestInteger.AssemblyInfoInputs.cache
+D:\Learning\Interviews\Practice Tests\SmallestInteger\SmallestInteger\obj\Debug\net6.0\SmallestInteger.AssemblyInfo.cs
+D:\Learning\Interviews\Practice Tests\SmallestInteger\SmallestInteger\obj\Debug\net6.0\SmallestInteger.csproj.CoreCompileInputs.cache
+D:\Learning\Interviews\Practice Tests\SmallestInteger\SmallestInteger\obj\Debug\net6.0\SmallestInteger.dll
+D:\Learning\Interviews\Practice Tests\SmallestInteger\SmallestInteger\obj\Debug\net6.0\refint\SmallestInteger.dll
+D:\Learning\Interviews\Practice Tests\SmallestInteger\SmallestInteger\obj\Debug\net6.0\SmallestInteger.pdb
+D:\Learning\Interviews\Practice Tests\SmallestInteger\SmallestInteger\obj\Debug\net6.0\SmallestInteger.genruntimeconfig.cache
+D:\Learning\Interviews\Practice Tests\SmallestInteger\SmallestInteger\obj\Debug\net6.0\ref\SmallestInteger.dll

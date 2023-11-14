@@ -1,0 +1,15 @@
+D:\Learning\Interviews\Practice Tests\PolyndromePartition\PolyndromePartition\bin\Debug\net6.0\PolyndromePartition.exe
+D:\Learning\Interviews\Practice Tests\PolyndromePartition\PolyndromePartition\bin\Debug\net6.0\PolyndromePartition.deps.json
+D:\Learning\Interviews\Practice Tests\PolyndromePartition\PolyndromePartition\bin\Debug\net6.0\PolyndromePartition.runtimeconfig.json
+D:\Learning\Interviews\Practice Tests\PolyndromePartition\PolyndromePartition\bin\Debug\net6.0\PolyndromePartition.dll
+D:\Learning\Interviews\Practice Tests\PolyndromePartition\PolyndromePartition\bin\Debug\net6.0\PolyndromePartition.pdb
+D:\Learning\Interviews\Practice Tests\PolyndromePartition\PolyndromePartition\obj\Debug\net6.0\PolyndromePartition.csproj.AssemblyReference.cache
+D:\Learning\Interviews\Practice Tests\PolyndromePartition\PolyndromePartition\obj\Debug\net6.0\PolyndromePartition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Interviews\Practice Tests\PolyndromePartition\PolyndromePartition\obj\Debug\net6.0\PolyndromePartition.AssemblyInfoInputs.cache
+D:\Learning\Interviews\Practice Tests\PolyndromePartition\PolyndromePartition\obj\Debug\net6.0\PolyndromePartition.AssemblyInfo.cs
+D:\Learning\Interviews\Practice Tests\PolyndromePartition\PolyndromePartition\obj\Debug\net6.0\PolyndromePartition.csproj.CoreCompileInputs.cache
+D:\Learning\Interviews\Practice Tests\PolyndromePartition\PolyndromePartition\obj\Debug\net6.0\PolyndromePartition.dll
+D:\Learning\Interviews\Practice Tests\PolyndromePartition\PolyndromePartition\obj\Debug\net6.0\refint\PolyndromePartition.dll
+D:\Learning\Interviews\Practice Tests\PolyndromePartition\PolyndromePartition\obj\Debug\net6.0\PolyndromePartition.pdb
+D:\Learning\Interviews\Practice Tests\PolyndromePartition\PolyndromePartition\obj\Debug\net6.0\PolyndromePartition.genruntimeconfig.cache
+D:\Learning\Interviews\Practice Tests\PolyndromePartition\PolyndromePartition\obj\Debug\net6.0\ref\PolyndromePartition.dll
