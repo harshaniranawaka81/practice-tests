@@ -1,0 +1,14 @@
+C:\Harshani\Learning\C#\MaxPhoneMins\MaxPhoneMins\bin\Debug\net6.0\MaxPhoneMins.exe
+C:\Harshani\Learning\C#\MaxPhoneMins\MaxPhoneMins\bin\Debug\net6.0\MaxPhoneMins.deps.json
+C:\Harshani\Learning\C#\MaxPhoneMins\MaxPhoneMins\bin\Debug\net6.0\MaxPhoneMins.runtimeconfig.json
+C:\Harshani\Learning\C#\MaxPhoneMins\MaxPhoneMins\bin\Debug\net6.0\MaxPhoneMins.dll
+C:\Harshani\Learning\C#\MaxPhoneMins\MaxPhoneMins\bin\Debug\net6.0\MaxPhoneMins.pdb
+C:\Harshani\Learning\C#\MaxPhoneMins\MaxPhoneMins\obj\Debug\net6.0\MaxPhoneMins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Harshani\Learning\C#\MaxPhoneMins\MaxPhoneMins\obj\Debug\net6.0\MaxPhoneMins.AssemblyInfoInputs.cache
+C:\Harshani\Learning\C#\MaxPhoneMins\MaxPhoneMins\obj\Debug\net6.0\MaxPhoneMins.AssemblyInfo.cs
+C:\Harshani\Learning\C#\MaxPhoneMins\MaxPhoneMins\obj\Debug\net6.0\MaxPhoneMins.csproj.CoreCompileInputs.cache
+C:\Harshani\Learning\C#\MaxPhoneMins\MaxPhoneMins\obj\Debug\net6.0\MaxPhoneMins.dll
+C:\Harshani\Learning\C#\MaxPhoneMins\MaxPhoneMins\obj\Debug\net6.0\refint\MaxPhoneMins.dll
+C:\Harshani\Learning\C#\MaxPhoneMins\MaxPhoneMins\obj\Debug\net6.0\MaxPhoneMins.pdb
+C:\Harshani\Learning\C#\MaxPhoneMins\MaxPhoneMins\obj\Debug\net6.0\MaxPhoneMins.genruntimeconfig.cache
+C:\Harshani\Learning\C#\MaxPhoneMins\MaxPhoneMins\obj\Debug\net6.0\ref\MaxPhoneMins.dll

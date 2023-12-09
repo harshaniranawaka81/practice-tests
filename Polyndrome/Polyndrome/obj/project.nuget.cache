@@ -1,21 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MeidcY5HlxiCW4hyO7w1lz2Yt3fN/6xm0J1fdNNJ9dh0BvpwVePg0u8XPSRUaO0BX3HQ9d2BMPCdFNAprLCSRQ==",
+  "dgSpecHash": "uQrdRh/uEBiXB4MCUm6f2Jav0WnKc0bwSbCUZlNLC85Sv4apAd/GOjMx18VA4ncZEOVEL6sOXmkvzWEaYih4Pg==",
   "success": true,
-  "projectFilePath": "D:\\Learning\\Interviews\\Practice Tests\\Polyndrome\\Polyndrome\\Polyndrome.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget-server.sana-commerce.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    },
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.sana-commerce.com/AddonsDev'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "projectFilePath": "C:\\Harshani\\Github\\practice-tests\\Polyndrome\\Polyndrome\\Polyndrome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harsh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\harsh\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\harsh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\harsh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
 }

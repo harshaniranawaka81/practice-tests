@@ -27,3 +27,17 @@ C:\Harshani\Private\Interviews\test\test\obj\Debug\net6.0\refint\test.dll
 C:\Harshani\Private\Interviews\test\test\obj\Debug\net6.0\test.pdb
 C:\Harshani\Private\Interviews\test\test\obj\Debug\net6.0\test.genruntimeconfig.cache
 C:\Harshani\Private\Interviews\test\test\obj\Debug\net6.0\ref\test.dll
+C:\Harshani\Github\practice-tests\NumberOfStories\test\bin\Debug\net6.0\test.exe
+C:\Harshani\Github\practice-tests\NumberOfStories\test\bin\Debug\net6.0\test.deps.json
+C:\Harshani\Github\practice-tests\NumberOfStories\test\bin\Debug\net6.0\test.runtimeconfig.json
+C:\Harshani\Github\practice-tests\NumberOfStories\test\bin\Debug\net6.0\test.dll
+C:\Harshani\Github\practice-tests\NumberOfStories\test\bin\Debug\net6.0\test.pdb
+C:\Harshani\Github\practice-tests\NumberOfStories\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Harshani\Github\practice-tests\NumberOfStories\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+C:\Harshani\Github\practice-tests\NumberOfStories\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+C:\Harshani\Github\practice-tests\NumberOfStories\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+C:\Harshani\Github\practice-tests\NumberOfStories\test\obj\Debug\net6.0\test.dll
+C:\Harshani\Github\practice-tests\NumberOfStories\test\obj\Debug\net6.0\refint\test.dll
+C:\Harshani\Github\practice-tests\NumberOfStories\test\obj\Debug\net6.0\test.pdb
+C:\Harshani\Github\practice-tests\NumberOfStories\test\obj\Debug\net6.0\test.genruntimeconfig.cache
+C:\Harshani\Github\practice-tests\NumberOfStories\test\obj\Debug\net6.0\ref\test.dll

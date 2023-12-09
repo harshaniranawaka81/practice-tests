@@ -1,0 +1,14 @@
+C:\Harshani\Learning\C#\TreasureHuntMaxItems\TreasureHuntMaxItems\bin\Debug\net6.0\TreasureHuntMaxItems.exe
+C:\Harshani\Learning\C#\TreasureHuntMaxItems\TreasureHuntMaxItems\bin\Debug\net6.0\TreasureHuntMaxItems.deps.json
+C:\Harshani\Learning\C#\TreasureHuntMaxItems\TreasureHuntMaxItems\bin\Debug\net6.0\TreasureHuntMaxItems.runtimeconfig.json
+C:\Harshani\Learning\C#\TreasureHuntMaxItems\TreasureHuntMaxItems\bin\Debug\net6.0\TreasureHuntMaxItems.dll
+C:\Harshani\Learning\C#\TreasureHuntMaxItems\TreasureHuntMaxItems\bin\Debug\net6.0\TreasureHuntMaxItems.pdb
+C:\Harshani\Learning\C#\TreasureHuntMaxItems\TreasureHuntMaxItems\obj\Debug\net6.0\TreasureHuntMaxItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Harshani\Learning\C#\TreasureHuntMaxItems\TreasureHuntMaxItems\obj\Debug\net6.0\TreasureHuntMaxItems.AssemblyInfoInputs.cache
+C:\Harshani\Learning\C#\TreasureHuntMaxItems\TreasureHuntMaxItems\obj\Debug\net6.0\TreasureHuntMaxItems.AssemblyInfo.cs
+C:\Harshani\Learning\C#\TreasureHuntMaxItems\TreasureHuntMaxItems\obj\Debug\net6.0\TreasureHuntMaxItems.csproj.CoreCompileInputs.cache
+C:\Harshani\Learning\C#\TreasureHuntMaxItems\TreasureHuntMaxItems\obj\Debug\net6.0\TreasureHuntMaxItems.dll
+C:\Harshani\Learning\C#\TreasureHuntMaxItems\TreasureHuntMaxItems\obj\Debug\net6.0\refint\TreasureHuntMaxItems.dll
+C:\Harshani\Learning\C#\TreasureHuntMaxItems\TreasureHuntMaxItems\obj\Debug\net6.0\TreasureHuntMaxItems.pdb
+C:\Harshani\Learning\C#\TreasureHuntMaxItems\TreasureHuntMaxItems\obj\Debug\net6.0\TreasureHuntMaxItems.genruntimeconfig.cache
+C:\Harshani\Learning\C#\TreasureHuntMaxItems\TreasureHuntMaxItems\obj\Debug\net6.0\ref\TreasureHuntMaxItems.dll

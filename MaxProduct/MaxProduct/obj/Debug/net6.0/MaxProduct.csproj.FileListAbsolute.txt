@@ -1,0 +1,14 @@
+C:\Harshani\MaxProduct\MaxProduct\bin\Debug\net6.0\MaxProduct.exe
+C:\Harshani\MaxProduct\MaxProduct\bin\Debug\net6.0\MaxProduct.deps.json
+C:\Harshani\MaxProduct\MaxProduct\bin\Debug\net6.0\MaxProduct.runtimeconfig.json
+C:\Harshani\MaxProduct\MaxProduct\bin\Debug\net6.0\MaxProduct.dll
+C:\Harshani\MaxProduct\MaxProduct\bin\Debug\net6.0\MaxProduct.pdb
+C:\Harshani\MaxProduct\MaxProduct\obj\Debug\net6.0\MaxProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Harshani\MaxProduct\MaxProduct\obj\Debug\net6.0\MaxProduct.AssemblyInfoInputs.cache
+C:\Harshani\MaxProduct\MaxProduct\obj\Debug\net6.0\MaxProduct.AssemblyInfo.cs
+C:\Harshani\MaxProduct\MaxProduct\obj\Debug\net6.0\MaxProduct.csproj.CoreCompileInputs.cache
+C:\Harshani\MaxProduct\MaxProduct\obj\Debug\net6.0\MaxProduct.dll
+C:\Harshani\MaxProduct\MaxProduct\obj\Debug\net6.0\refint\MaxProduct.dll
+C:\Harshani\MaxProduct\MaxProduct\obj\Debug\net6.0\MaxProduct.pdb
+C:\Harshani\MaxProduct\MaxProduct\obj\Debug\net6.0\MaxProduct.genruntimeconfig.cache
+C:\Harshani\MaxProduct\MaxProduct\obj\Debug\net6.0\ref\MaxProduct.dll

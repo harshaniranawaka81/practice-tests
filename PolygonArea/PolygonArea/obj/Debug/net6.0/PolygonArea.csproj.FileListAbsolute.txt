@@ -1,0 +1,14 @@
+C:\Harshani\PolygonArea\PolygonArea\bin\Debug\net6.0\PolygonArea.exe
+C:\Harshani\PolygonArea\PolygonArea\bin\Debug\net6.0\PolygonArea.deps.json
+C:\Harshani\PolygonArea\PolygonArea\bin\Debug\net6.0\PolygonArea.runtimeconfig.json
+C:\Harshani\PolygonArea\PolygonArea\bin\Debug\net6.0\PolygonArea.dll
+C:\Harshani\PolygonArea\PolygonArea\bin\Debug\net6.0\PolygonArea.pdb
+C:\Harshani\PolygonArea\PolygonArea\obj\Debug\net6.0\PolygonArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Harshani\PolygonArea\PolygonArea\obj\Debug\net6.0\PolygonArea.AssemblyInfoInputs.cache
+C:\Harshani\PolygonArea\PolygonArea\obj\Debug\net6.0\PolygonArea.AssemblyInfo.cs
+C:\Harshani\PolygonArea\PolygonArea\obj\Debug\net6.0\PolygonArea.csproj.CoreCompileInputs.cache
+C:\Harshani\PolygonArea\PolygonArea\obj\Debug\net6.0\PolygonArea.dll
+C:\Harshani\PolygonArea\PolygonArea\obj\Debug\net6.0\refint\PolygonArea.dll
+C:\Harshani\PolygonArea\PolygonArea\obj\Debug\net6.0\PolygonArea.pdb
+C:\Harshani\PolygonArea\PolygonArea\obj\Debug\net6.0\PolygonArea.genruntimeconfig.cache
+C:\Harshani\PolygonArea\PolygonArea\obj\Debug\net6.0\ref\PolygonArea.dll

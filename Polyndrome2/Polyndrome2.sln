@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyndrome2", "Polyndrome2\Polyndrome2.csproj", "{FE056486-5789-411D-BF62-75B89CA01FB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE056486-5789-411D-BF62-75B89CA01FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE056486-5789-411D-BF62-75B89CA01FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE056486-5789-411D-BF62-75B89CA01FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE056486-5789-411D-BF62-75B89CA01FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86969ED6-CE4D-412B-A707-DDFC5325AB4B}
+	EndGlobalSection
+EndGlobal

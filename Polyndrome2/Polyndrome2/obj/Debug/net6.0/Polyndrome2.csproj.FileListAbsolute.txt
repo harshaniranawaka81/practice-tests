@@ -1,0 +1,14 @@
+C:\Harshani\Polyndrome2\Polyndrome2\bin\Debug\net6.0\Polyndrome2.exe
+C:\Harshani\Polyndrome2\Polyndrome2\bin\Debug\net6.0\Polyndrome2.deps.json
+C:\Harshani\Polyndrome2\Polyndrome2\bin\Debug\net6.0\Polyndrome2.runtimeconfig.json
+C:\Harshani\Polyndrome2\Polyndrome2\bin\Debug\net6.0\Polyndrome2.dll
+C:\Harshani\Polyndrome2\Polyndrome2\bin\Debug\net6.0\Polyndrome2.pdb
+C:\Harshani\Polyndrome2\Polyndrome2\obj\Debug\net6.0\Polyndrome2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Harshani\Polyndrome2\Polyndrome2\obj\Debug\net6.0\Polyndrome2.AssemblyInfoInputs.cache
+C:\Harshani\Polyndrome2\Polyndrome2\obj\Debug\net6.0\Polyndrome2.AssemblyInfo.cs
+C:\Harshani\Polyndrome2\Polyndrome2\obj\Debug\net6.0\Polyndrome2.csproj.CoreCompileInputs.cache
+C:\Harshani\Polyndrome2\Polyndrome2\obj\Debug\net6.0\Polyndrome2.dll
+C:\Harshani\Polyndrome2\Polyndrome2\obj\Debug\net6.0\refint\Polyndrome2.dll
+C:\Harshani\Polyndrome2\Polyndrome2\obj\Debug\net6.0\Polyndrome2.pdb
+C:\Harshani\Polyndrome2\Polyndrome2\obj\Debug\net6.0\Polyndrome2.genruntimeconfig.cache
+C:\Harshani\Polyndrome2\Polyndrome2\obj\Debug\net6.0\ref\Polyndrome2.dll
