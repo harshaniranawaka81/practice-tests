@@ -3,10 +3,11 @@ using System.Text;
 using System.Linq;
 using System.Collections.Generic;
 
-//var text = "- .... .   .-- .. --.. .- .-. -..   --.- ..- .. -.-. -.- .-.. -.--   .--- .. -. -..- . -..   - .... .   --. -. --- -- . ...   -... . ..-. --- .-. .   - .... . -.--   ...- .- .--. --- .-. .. --.. . -.. .-.-.-";
-var text = "The wizard quickly jinxed the gnomes before they vaporized.";
+//var text1 = "- .... .   .-- .. --.. .- .-. -..   --.- ..- .. -.-. -.- .-.. -.--   .--- .. -. -..- . -..   - .... .   --. -. --- -- . ...   -... . ..-. --- .-. .   - .... . -.--   ...- .- .--. --- .-. .. --.. . -.. .-.-.-";
+//Console.WriteLine(Convert(true, text1));
 
-Console.WriteLine(Convert(false, text));
+var text2 = "The wizard quickly jinxed the gnomes before they vaporized.";
+Console.WriteLine(Convert(false, text2));
 
 static string Convert(bool morseToEnglish, string textToTranslate)
 {
@@ -79,7 +80,7 @@ static string Convert(bool morseToEnglish, string textToTranslate)
                     translatedText.Append(value);
                 }
                 else
-                    translatedText.Append(letter);
+                    return "Invalid Morse Code Or Spacing";
             }
 
             translatedText.Append(" ");
@@ -102,11 +103,14 @@ static string Convert(bool morseToEnglish, string textToTranslate)
                     if (translatedText.ToString().Length == 0)
                         translatedText.Append(value);
                     else
-                        translatedText.Append(value);
+                        translatedText.Append(" " + value);
                 }
+                else
+                    return "Invalid Morse Code Or Spacing";
+
             }
 
-            translatedText.Append("   ");
+            translatedText.Append("  ");
         }
     }
 
